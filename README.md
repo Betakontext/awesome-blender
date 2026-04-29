@@ -275,6 +275,7 @@ English | [简体中文版 (Chinese)](README_ZH.md)
 
 ### 🖨️3D print [^](#table)
 - [Snapsplit](https://github.com/Betakontext/snapsplit) : Automates cut and connection building workflows for complex 3D models in Blender, which are f.e. larger than your printing bed, to create printable parts. It generates precise, glue-free snap-fit connectors.
+- [3D Print Toolbox](https://extensions.blender.org/add-ons/print3d-toolbox/) : Must-have utilities to clean and prepare models for 3d printing in Blender.
 
 ### 🗜Render Engine [^](#table)
 
