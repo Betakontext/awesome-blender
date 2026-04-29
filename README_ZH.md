@@ -454,6 +454,7 @@
 ---
 ### 🖨️ 3D打印 [^](#table)
 - [Snapsplit](https://github.com/Betakontext/snapsplit)：可自动完成Blender中复杂3D模型的切割和连接构建工作流程（例如，大于您的打印平台的模型），以创建可打印的部件。它能生成精确、无需胶水的卡扣式连接件。
+- [3d Print Toolbox](https://extensions.blender.org/add-ons/print3d-toolbox/): 用于在 Blender 中清洁和准备模型以进行 3D 打印的基本实用程序。
 
 ## 🪐 资源 [^](#table)
 
