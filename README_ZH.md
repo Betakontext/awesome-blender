@@ -452,6 +452,8 @@
 - [AI Render](https://github.com/benrugg/AI-Render)：Blender中的稳定扩散。这个插件根据文本提示和您的场景渲染AI生成的图像。
 
 ---
+### 🖨️ 3D打印 [^](#table)
+- [Snapsplit](https://github.com/Betakontext/snapsplit)：可自动完成Blender中复杂3D模型的切割和连接构建工作流程（例如，大于您的打印平台的模型），以创建可打印的部件。它能生成精确、无需胶水的卡扣式连接件。
 
 ## 🪐 资源 [^](#table)
 
