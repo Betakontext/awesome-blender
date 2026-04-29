@@ -273,6 +273,9 @@ English | [简体中文版 (Chinese)](README_ZH.md)
     - [TextCounter](https://github.com/leomoon-studios/leomoon-textcounter/) : LeoMoon TextCounter is an easy to use text animation plugin for Blender that can be used to make GUI simulations.
     - [GreaseWriter](https://github.com/doakey3/GreaseWriter) : A Blender Add-on for auto-animating grease pencil strokes and emulating hand-drawn text.
 
+### 🗜3D print [^](#table)
+- [Snapsplit](https://github.com/Betakontext/snapsplit) : Automates cut and connection building workflows for complex 3D models in Blender, which are f.e. larger than your printing bed, to create printable parts. It generates precise, glue-free snap-fit connectors.
+
 ### 🗜Render Engine [^](#table)
 
 - [AMD Radeon ProRender](https://www.amd.com/en/technologies/radeon-prorender-blender) : is AMD’s powerful physically-based rendering engine that lets creative professionals use open industry standards to leverage GPU and CPU performance to produce stunningly photorealistic images in Blender.
